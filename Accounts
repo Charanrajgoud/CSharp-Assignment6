@@ -21,7 +21,7 @@ namespace Assignment6
             Account_Number = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("enter customer name");
             Customer_Name = Console.ReadLine();
-            Console.WriteLine("enter amount to disposit");
+            Console.WriteLine("enter amount to desposit");
             Balance = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("balance amount is" + ":" + Balance);
         }
